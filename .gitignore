@@ -78,3 +78,8 @@ target/
 *.class
 
 # End of https://www.gitignore.io/api/intellij
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
